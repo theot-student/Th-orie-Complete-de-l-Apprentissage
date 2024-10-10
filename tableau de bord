@@ -1,0 +1,10 @@
+Projet : 
+	Etude de l'article de V. Vapnik et R. Izmailov sur la théorie complète de l'apprentissage et l'utilisation d'invariants statistiques. 
+Application à un problème de prédiction de champs magnétique à l'aide des connaissances a priori.
+
+Papiers:
+
+- article Vapnik : http://proceedings.mlr.press/v128/vapnik20a/vapnik20a.pdf
+	décomposition du risque empirique en risque structurel
+- article Linearly Constrained Neural Networks https://arxiv.org/pdf/2002.01600
+	Réseaux de neurone contraint avec l'équation du champs magnétique

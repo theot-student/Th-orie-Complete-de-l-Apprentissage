@@ -6,5 +6,5 @@ Papiers:
 
 - article Vapnik : http://proceedings.mlr.press/v128/vapnik20a/vapnik20a.pdf
 	décomposition du risque empirique en risque structurel
-- article Linearly Constrained Neural Networks https://arxiv.org/pdf/2002.01600
+- article Linearly Constrained Neural Networks https://arxiv.org/pdf/2002.01600 / https://github.com/jnh277/Linearly-Constrained-NN/
 	Réseaux de neurone contraint avec l'équation du champs magnétique
